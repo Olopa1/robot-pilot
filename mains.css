@@ -1,0 +1,46 @@
+.custom-btn-options{
+    width: 100%;
+    min-height: 100px;
+    border-radius: 0px;
+    font-size: 2em;
+    text-align: center;
+}
+
+.custom-col-options{
+    max-width: 1000px;
+    margin:0%;
+    padding: 0%;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 0px;
+    min-height: 100px;
+}
+
+.custom-container-options{
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.speed-monitor{
+    width: 100%;
+    text-align: center;
+    background-color: gray;
+    border: 5px solid black;
+    font-size: 2em;
+}
+
+.custom-break{
+    margin-top: 2%;
+}
+.title{
+    width: 100%;
+    background-color: blue;
+    padding: 2%;
+    margin: 1%;
+    font-weight: 500;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
